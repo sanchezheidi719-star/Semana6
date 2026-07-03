@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban reportes de forma estructurada porque
+así los datos pueden procesarse automáticamente y llegar a las áreas responsables más rápido.
+El uso de JSON y solicitudes bien definidas facilita la validación, el almacenamiento y el análisis.
+Cuando los ciudadanos envían información ordenada, se reduce el riesgo de errores y pérdidas de datos.
+Además, los gobiernos y servicios pueden priorizar las incidentes según tipo y urgencia de manera eficiente.
+Los reportes estructurados también permiten generar estadísticas y mejorar la toma de decisiones.
+Esto contribuye a una atención más transparente, ágil y confiable para la comunidad.
+Finalmente, recibir datos bien formateados es clave para integrar plataformas y responder mejor a las necesidades.
